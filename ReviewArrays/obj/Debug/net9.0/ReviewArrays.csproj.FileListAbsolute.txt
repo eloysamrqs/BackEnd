@@ -1,0 +1,14 @@
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\bin\Debug\net9.0\ReviewArrays.exe
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\bin\Debug\net9.0\ReviewArrays.deps.json
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\bin\Debug\net9.0\ReviewArrays.runtimeconfig.json
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\bin\Debug\net9.0\ReviewArrays.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\bin\Debug\net9.0\ReviewArrays.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\refint\ReviewArrays.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ReviewArrays.genruntimeconfig.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\ReviewArrays\obj\Debug\net9.0\ref\ReviewArrays.dll

@@ -1,0 +1,14 @@
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\bin\Debug\net9.0\exercicio22.exe
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\bin\Debug\net9.0\exercicio22.deps.json
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\bin\Debug\net9.0\exercicio22.runtimeconfig.json
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\bin\Debug\net9.0\exercicio22.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\bin\Debug\net9.0\exercicio22.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\refint\exercicio22.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\exercicio22.genruntimeconfig.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio22\obj\Debug\net9.0\ref\exercicio22.dll

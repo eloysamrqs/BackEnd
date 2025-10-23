@@ -1,0 +1,14 @@
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\bin\Debug\net9.0\exercicio35.exe
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\bin\Debug\net9.0\exercicio35.deps.json
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\bin\Debug\net9.0\exercicio35.runtimeconfig.json
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\bin\Debug\net9.0\exercicio35.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\bin\Debug\net9.0\exercicio35.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\refint\exercicio35.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\exercicio35.genruntimeconfig.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\exercicio35\obj\Debug\net9.0\ref\exercicio35.dll

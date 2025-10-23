@@ -1,0 +1,14 @@
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\bin\Debug\net9.0\funcoes.exe
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\bin\Debug\net9.0\funcoes.deps.json
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\bin\Debug\net9.0\funcoes.runtimeconfig.json
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\bin\Debug\net9.0\funcoes.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\bin\Debug\net9.0\funcoes.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\refint\funcoes.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\funcoes.genruntimeconfig.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\funcoes\obj\Debug\net9.0\ref\funcoes.dll

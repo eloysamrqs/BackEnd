@@ -1,0 +1,14 @@
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\bin\Debug\net9.0\SimpleCalc.exe
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\bin\Debug\net9.0\SimpleCalc.deps.json
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\bin\Debug\net9.0\SimpleCalc.runtimeconfig.json
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\bin\Debug\net9.0\SimpleCalc.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\bin\Debug\net9.0\SimpleCalc.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\refint\SimpleCalc.dll
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.pdb
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\SimpleCalc.genruntimeconfig.cache
+C:\Users\7811003309\Desktop\BackEndTorloni\SimpleCalc\obj\Debug\net9.0\ref\SimpleCalc.dll
