@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\7811003309\\Desktop\\BackEndTorloni\\ReviewArrays\\ReviewArrays.csproj": {}
+    "C:\\Users\\7811003309\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\7811003309\\Desktop\\BackEndTorloni\\ReviewArrays\\ReviewArrays.csproj": {
+    "C:\\Users\\7811003309\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\7811003309\\Desktop\\BackEndTorloni\\ReviewArrays\\ReviewArrays.csproj",
+        "projectUniqueName": "C:\\Users\\7811003309\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj",
         "projectName": "ReviewArrays",
-        "projectPath": "C:\\Users\\7811003309\\Desktop\\BackEndTorloni\\ReviewArrays\\ReviewArrays.csproj",
+        "projectPath": "C:\\Users\\7811003309\\Desktop\\BackEnd\\ReviewArrays\\ReviewArrays.csproj",
         "packagesPath": "C:\\Users\\7811003309\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\7811003309\\Desktop\\BackEndTorloni\\ReviewArrays\\obj\\",
+        "outputPath": "C:\\Users\\7811003309\\Desktop\\BackEnd\\ReviewArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\7811003309\\AppData\\Roaming\\NuGet\\NuGet.Config"

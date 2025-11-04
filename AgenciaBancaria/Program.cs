@@ -6,7 +6,7 @@ int totalClientes = 0;
 do
 {
     Console.Clear();
-    Console.WriteLine("========== SISTEMA BANCÁRIO SIMPLES ==========");
+    Console.WriteLine("=== SISTEMA BANCÁRIO SIMPLES ===");
     Console.WriteLine("1. Cadastrar Cliente");
     Console.WriteLine("2. Depositar");
     Console.WriteLine("3. Sacar");
@@ -81,7 +81,7 @@ void CadastrarClientes()
 void ListarClientes()
 {
     Console.Clear();
-    Console.WriteLine("========== LISTAR CLIENTES ==========\n");
+    Console.WriteLine("==== LISTAR CLIENTES ====\n");
 
     if (totalClientes == 0)
     {
@@ -102,7 +102,7 @@ void ListarClientes()
 void Depositar()
 {
     Console.Clear();
-    Console.WriteLine("========== DEPOSITAR ==========\n");
+    Console.WriteLine("==== DEPOSITAR ====\n");
 
     if (totalClientes == 0)
     {
@@ -139,7 +139,7 @@ void Depositar()
 void Sacar()
 {
     Console.Clear();
-    Console.WriteLine("========== SACAR ==========\n");
+    Console.WriteLine("==== SACAR ====\n");
 
     if (totalClientes == 0)
     {
@@ -184,7 +184,7 @@ void Sacar()
 void Transferir()
 {
     Console.Clear();
-    Console.WriteLine("========== TRANSFERIR ==========\n");
+    Console.WriteLine("==== TRANSFERIR ====\n");
 
     if (totalClientes < 2)
     {
