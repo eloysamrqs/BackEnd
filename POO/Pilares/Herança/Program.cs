@@ -6,7 +6,7 @@
 // g1.FazerSom();
 
 // Gerente g1 = new Gerente();
-// g1.Nome = "Jeferson";
+// g1.Nome = "Eloysa";
 // g1.SalarioBase = 1002;
 // g1.CalcularSalario();
 
