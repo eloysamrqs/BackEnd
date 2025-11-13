@@ -1,22 +1,23 @@
 namespace ExerciciosMetodoConstrutor
 {
     public class Produto
-    {
-        public string Nome;
-        public double Preco;
-        public int Estoque;
+    {    
+        public string Nome = "";
 
-        public Produto(string n, double p, int e)
+        public double Preco = 0;
+
+        public int Estoque = 0;
+
+        public Produto(int E, double P, string N)
         {
-            Nome = n;
-            Preco = p;
-            Estoque = e;
+            Nome = N;
+            Preco = P;
+            Estoque = E;
         }
-        
-        public void MostrarDados()
+
+        public void ExibirDados()
         {
-            Console.WriteLine($"Nome: {Nome} - Preço: R${Preco:F2} - Estoque: {Estoque} ");
-            Console.WriteLine();
+            Console.WriteLine($"Nome: {Nome} | Preço: R${Preco} | Estoque: {Estoque}");
         }
     }
 }

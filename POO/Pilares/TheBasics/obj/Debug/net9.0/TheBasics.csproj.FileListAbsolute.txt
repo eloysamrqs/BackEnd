@@ -1,0 +1,15 @@
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasics.exe
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasics.deps.json
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasics.runtimeconfig.json
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasics.dll
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\bin\Debug\net9.0\TheBasics.pdb
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.sourcelink.json
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.dll
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\refint\TheBasics.dll
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.pdb
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\TheBasics.genruntimeconfig.cache
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\TheBasics\obj\Debug\net9.0\ref\TheBasics.dll

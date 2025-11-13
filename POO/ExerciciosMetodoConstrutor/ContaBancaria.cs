@@ -2,19 +2,18 @@ namespace ExerciciosMetodoConstrutor
 {
     public class ContaBancaria
     {
-        public string Titular;
-        public double Saldo;
+        public string Titular = "";
+        public double Saldo = 0;
 
-        public ContaBancaria(string titular, double saldo)
+        public ContaBancaria(string T, double S)
         {
-            Titular = titular;
-            Saldo = saldo;
+            Titular = T;
+            Saldo = S;
         }
 
-        public void ExibirDados()
+        public ContaBancaria(string T)
         {
-            Console.WriteLine($"Titular: {Titular} - Saldo: R$ {Saldo:F2}");
-            Console.WriteLine();
+            Titular = T;
         }
     }
 }

@@ -2,14 +2,8 @@ namespace ExerciciosMetodoConstrutor
 {
     public class Aluno
     {
-        public string Nome;
-        public double Nota;
-
-        public Aluno()
-        {
-            Nome = "Aluno Desconhecido";
-            Nota = 0;
-        }
+        public string Nome = "";
+        public double Nota = 0;
 
         public Aluno(string nome, double nota)
         {
@@ -17,10 +11,11 @@ namespace ExerciciosMetodoConstrutor
             Nota = nota;
         }
 
-        public void ExibirDados()
+        public Aluno()
         {
-            Console.WriteLine($"Aluno: {Nome} - Nota: {Nota:F1}"); 
-            Console.WriteLine();
+            Nome = "Desconhecido";
+            Nota = 0;
         }
+
     }
 }

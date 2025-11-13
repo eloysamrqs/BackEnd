@@ -1,24 +1,25 @@
-using System.IO.Pipes;
-
 namespace ExerciciosMetodoConstrutor
 {
     public class Carro
     {
-        public string Marca;
-        public string Modelo;
-        public int Ano;
 
-        public Carro(string m, string mo, int a)
+        public string Marca = "";
+
+        public string Modelo = "";
+
+        public int Ano = 0;
+
+        public Carro(int a, string mod, string mar)
         {
-            Marca = m;
-            Modelo = mo;
+            Marca = mar;
+            Modelo = mod;
             Ano = a;
         }
 
         public void ExibirDados()
         {
-            Console.WriteLine($"Carro: {Marca} - {Modelo}, Ano: {Ano}");
-            Console.WriteLine();
+            Console.WriteLine($"Marca: {Marca} | Modelo: {Modelo} | Ano: {Ano}");
+            
         }
     }
 }
