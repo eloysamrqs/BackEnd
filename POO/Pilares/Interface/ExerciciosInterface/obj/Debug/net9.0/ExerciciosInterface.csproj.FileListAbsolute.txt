@@ -1,0 +1,5 @@
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\Interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\Interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.AssemblyInfoInputs.cache
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\Interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.AssemblyInfo.cs
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\Interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.csproj.CoreCompileInputs.cache
+C:\Users\7811003309\Desktop\BackEnd\POO\Pilares\Interface\ExerciciosInterface\obj\Debug\net9.0\ExerciciosInterface.sourcelink.json
