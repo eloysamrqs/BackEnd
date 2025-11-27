@@ -6,9 +6,9 @@ namespace Encapsulamento
         private string marca = "";
         private int velocidadeAtual;
 
-        public void DefinirMarca(string M)
+        public void DefinirMarca(string valor)
         {
-            marca = M;
+            marca = valor;
         }
 
         public string ObterMarca()
@@ -16,9 +16,9 @@ namespace Encapsulamento
             return marca;
         }
 
-        public void DefinirModelo(string Mo)
+        public void DefinirModelo(string valor)
         {
-            modelo = Mo;
+            modelo = valor;
         }
 
         public string ObterModelo()
@@ -26,22 +26,21 @@ namespace Encapsulamento
             return modelo;
         }
 
-        public void Acelerar(int quantidade)
-        {
-            velocidadeAtual += quantidade;
-        }
-
         public int ObterVelocidade()
         {
             return velocidadeAtual;
         }
 
+        public void Acelerar(int quantidade)
+        {
+            if (quantidade > 0) velocidadeAtual += quantidade;
+        }
+
         public void Frear(int quantidade)
         {
-            velocidadeAtual -= quantidade;
-            if (velocidadeAtual < 0)
+            if (quantidade > 0) 
             {
-                velocidadeAtual = 0;
+                velocidadeAtual -= quantidade;
             }
         }
     }
