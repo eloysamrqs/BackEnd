@@ -1,0 +1,68 @@
+main {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px; 
+    box-sizing: border-box;
+}
+
+main > div {
+    width: 90%;
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px; 
+    align-items: center;
+}
+
+/* Formulário */
+.estilo-formulario {
+    width: 100%;
+    max-width: 340px;
+    background-color: var(--cor-lilas);
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#formulario {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    gap: 20px; 
+}
+
+#formulario > div > label {
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-preto);
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+#formulario > div {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario-botao-azul {
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+}
+
+
+.botao-upload:hover {
+    background: var(--cor-cinza-escuro2);
+}
+
+#formulario > p {
+    text-align: center;
+    font-size: var(--tamanho-fonte-sm);
+    color: var(--cor-azul-escuro);
+}
+

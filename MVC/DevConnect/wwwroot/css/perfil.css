@@ -1,0 +1,155 @@
+main {
+    margin-top: 20px;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.perfil-container {
+    width: 90%;
+    max-width: 900px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* height: 300px; */
+}
+
+#dados-perfil {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 50px;
+    row-gap: 30px;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+
+.perfil-foto-principal {
+    width: 110px;
+    height: 110px;
+    object-fit: cover;
+    /*Redimensiona a foto*/
+    object-position: center;
+    border-radius: 50%;
+}
+
+#dados-perfil > div {
+    width: 315px;
+    display: flex;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    column-gap: 15px;
+}
+
+.nome-perfil {
+    width: 100%;
+    font-size: 20px;
+}
+
+a {
+    color: var(--cor-azul-escuro);
+    text-decoration: none;
+}
+
+  
+  .botao {
+    color: var(--cor-azul-escuro);
+    font-family: "Libertinus Serif", serif"
+  }
+  
+  .botao.sair {
+    color: var(--cor-azul-escuro);
+    font-family: "Libertinus Serif", serif"
+  }
+  
+.dados.perfil > div > button{
+    background-color: transparent;
+}
+
+.divisao{
+    width: 90%;
+    margin: 20px auto;
+    border: 0;
+    border-top: 1px solid;
+}
+
+.publicacoes{
+    font-size: 15px;
+}
+
+.publicacoes > h2{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.post {
+    background-color: var(--cor-branco);
+    padding: 15px;
+    margin: 20px;
+  }
+  
+  .post-topo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post-topo > img {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .post-texto {
+    margin-bottom: 10px;
+    line-height: 1.4;
+    color: var(--cor-preto);
+  }
+  
+  .post-acoes {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 5px;
+    color: var(--cor-preto);
+  }
+  
+  .post-acoes > img {
+    width: 22px;
+    cursor: pointer;
+  }
+  
+  .post-curtidas {
+    font-size: 13.6px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .ver-comentarios {
+    font-size: 12.8px;
+    color: var(--cor-cinza);
+    text-decoration: none;
+  }
+  
+  .ver-comentarios:hover {
+    text-decoration: underline;
+  }
+  
+
+@media only screen and (max-width: 314px) {
+    #dados-perfil>div {
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .nome-perfil {
+        text-align: center;
+    }
+
+}

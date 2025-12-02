@@ -5,12 +5,124 @@
       "PackagePath": "staticwebassets\\DevConnect.8jlx483ao7.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\feed.css",
+      "PackagePath": "staticwebassets\\css\\feed.css"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\global.css",
+      "PackagePath": "staticwebassets\\css\\global.css"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\perfil.css",
+      "PackagePath": "staticwebassets\\css\\perfil.css"
+    },
+    {
       "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\usuario.css",
+      "PackagePath": "staticwebassets\\css\\usuario.css"
+    },
+    {
       "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\11e3c635-bece-4377-b4bc-f9a5a5dc3807.jpg",
+      "PackagePath": "staticwebassets\\images\\11e3c635-bece-4377-b4bc-f9a5a5dc3807.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\Corcao preto 1.svg",
+      "PackagePath": "staticwebassets\\images\\Corcao preto 1.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\DevConnect -  certo.svg",
+      "PackagePath": "staticwebassets\\images\\DevConnect -  certo.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\Foto 1.svg",
+      "PackagePath": "staticwebassets\\images\\Foto 1.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\Perfil 2.svg",
+      "PackagePath": "staticwebassets\\images\\Perfil 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\Perfil 3.svg",
+      "PackagePath": "staticwebassets\\images\\Perfil 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\app-store.svg",
+      "PackagePath": "staticwebassets\\images\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\baixados (1).jpg",
+      "PackagePath": "staticwebassets\\images\\baixados (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\baixados.jpg",
+      "PackagePath": "staticwebassets\\images\\baixados.jpg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\casa preto.svg",
+      "PackagePath": "staticwebassets\\images\\casa preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\casa-azul.svg",
+      "PackagePath": "staticwebassets\\images\\casa-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\comentario.svg",
+      "PackagePath": "staticwebassets\\images\\comentario.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\coracao-azul.svg",
+      "PackagePath": "staticwebassets\\images\\coracao-azul.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\devconnect 1.svg",
+      "PackagePath": "staticwebassets\\images\\devconnect 1.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\devconnect 2.svg",
+      "PackagePath": "staticwebassets\\images\\devconnect 2.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\devconnect 3.svg",
+      "PackagePath": "staticwebassets\\images\\devconnect 3.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\google-play.svg",
+      "PackagePath": "staticwebassets\\images\\google-play.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\icone-galeria-preto.svg",
+      "PackagePath": "staticwebassets\\images\\icone-galeria-preto.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\logo-devconnect-lg.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-lg.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\logo-devconnect-md.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-md.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\logo-devconnect-sm.svg",
+      "PackagePath": "staticwebassets\\images\\logo-devconnect-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\post-gabigordo.svg",
+      "PackagePath": "staticwebassets\\images\\post-gabigordo.svg"
+    },
+    {
+      "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\table.svg",
+      "PackagePath": "staticwebassets\\images\\table.svg"
     },
     {
       "Id": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\js\\site.js",
