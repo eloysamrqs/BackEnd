@@ -5,23 +5,24 @@
 
  <header id="cabeçalho">
         <nav>
-            <a id="logo-desktop" href="./feed.html">
+            <a id="logo-desktop" asp-controller="Feed" asp-action="Index">
                 <img src="../images/devconnect 2.svg" alt="Logo da empresa DevConnect">
             </a>
-            <a id="logo-mobile" href="./feed.html">
+            <a id="logo-mobile" asp-controller="Feed" asp-action="Index">
                 <img src="../images/devconnect 3.svg" alt="Logo da empresa DevConnect">
             </a>
 
             <!-- icones -->
             <div class="cabeçalho-acoes">
-                <a href="./feed.html">
+
+                <a href="#">
                     <img src="../images/casa-azul.svg" alt="icone casa azul">
                 </a>
                 <a href="#">
                     <img src="../images//coracao-azul.svg" alt="icone coracao azul">
                 </a>
 
-                <a href="#">
+                <a a asp-controller="Perfil" asp-action="Index">
                     <img class="foto-perfil" src="../images/11e3c635-bece-4377-b4bc-f9a5a5dc3807.jpg" alt="foto de perfil">
                 </a>
             </div>

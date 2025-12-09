@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Bx+qovgKAjIdA1N+hdrEiPGHxasy2kbF2L7tfrpaUdM=",
+  "Hash": "HZSeTyeEpJK9R/JOu6vTf+NbFb7Qdd7FthqKaljY0ow=",
   "Source": "DevConnect",
   "BasePath": "_content/DevConnect",
   "Mode": "Default",
@@ -960,6 +960,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\comentario.svg"
+    },
+    {
+      "Identity": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\i0qwtwsqw9-akbg4vajrp.gz",
+      "SourceId": "DevConnect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/DevConnect",
+      "RelativePath": "css/cadastro#[.{fingerprint=akbg4vajrp}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\cadastro.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8zn8vi49hj",
+      "Integrity": "ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\cadastro.css"
     },
     {
       "Identity": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\ihp3fjgyqn-v39g2pk7ye.gz",
@@ -1926,6 +1947,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\DevConnect.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\cadastro.css",
+      "SourceId": "DevConnect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\",
+      "BasePath": "_content/DevConnect",
+      "RelativePath": "css/cadastro#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "akbg4vajrp",
+      "Integrity": "il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\cadastro.css"
     },
     {
       "Identity": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\feed.css",
@@ -3840,6 +3882,304 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "css/cadastro.akbg4vajrp.css",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\i0qwtwsqw9-akbg4vajrp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002341920375"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 18:48:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akbg4vajrp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.akbg4vajrp.css",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 18:48:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akbg4vajrp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.akbg4vajrp.css.gz",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\i0qwtwsqw9-akbg4vajrp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 18:48:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "akbg4vajrp"
+        },
+        {
+          "Name": "label",
+          "Value": "css/cadastro.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\i0qwtwsqw9-akbg4vajrp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002341920375"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 18:48:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\css\\cadastro.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1226"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 18:48:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w="
+        }
+      ]
+    },
+    {
+      "Route": "css/cadastro.css.gz",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\i0qwtwsqw9-akbg4vajrp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 04 Dec 2025 18:48:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZLI5dzohtHsblp9zY5xwcIm9njtL3FRJ+VBK+xCn/cU="
+        }
+      ]
+    },
     {
       "Route": "css/feed.css",
       "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\obj\\Debug\\net9.0\\compressed\\vlinrkfmos-g631ks95c9.gz",

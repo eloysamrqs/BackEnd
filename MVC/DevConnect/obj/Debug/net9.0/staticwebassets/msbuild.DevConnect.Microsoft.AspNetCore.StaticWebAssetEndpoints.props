@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/DevConnect/css/cadastro.akbg4vajrp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cadastro.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"akbg4vajrp"},{"Name":"integrity","Value":"sha256-il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w="},{"Name":"label","Value":"_content/DevConnect/css/cadastro.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1226"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 04 Dec 2025 18:48:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/DevConnect/css/cadastro.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\cadastro.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1226"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022il7gLc9FWWNr9OLA1qCLn8b2M5Q7jFx9mkLu6jOHg3w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 04 Dec 2025 18:48:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/DevConnect/css/feed.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\feed.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>

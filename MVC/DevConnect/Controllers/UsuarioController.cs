@@ -1,3 +1,4 @@
+using DevConnect.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace DevConnect.Controllers
@@ -5,6 +6,7 @@ namespace DevConnect.Controllers
     public class UsuarioController : Controller
     {
         private readonly ILogger<UsuarioController> _logger;
+        private readonly DevConnectContext _context;
 
         public UsuarioController(ILogger<UsuarioController> logger)
         {

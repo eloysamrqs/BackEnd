@@ -1,0 +1,49 @@
+@{
+    ViewData["Title"] = "Cadastro - DevConnect";
+}
+
+ <link rel="stylesheet" href="~/css/cadastro.css">
+<h1>Tela principal cadastro - DevConnect</h1>
+
+    <main>
+        <div>
+            <!-- aqui o id foi ajustado para bater com o CSS -->
+            <form id="formulario" class="estilo-formulario" action="">
+                <img src="../images/DevConnect -  certo.svg" alt="Logo DevConnect">
+
+ <p>Cadastre-se para comunidade exclusiva de desenvolvedores(as)</p>
+
+  <div>
+                    <input type="text" id="nome" name="nome" placeholder="Digite seu nome completo">
+                </div>
+                
+                <div>
+                    <input type="text" id="usuario" name="usuario" placeholder="Digite seu nome de usuário">
+                </div>
+                
+                <div>
+                    <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
+                </div>
+                
+                <div>
+                    <input type="password" id="senha" name="senha" placeholder="Digite sua senha">
+                </div>
+                
+                <div>
+                    <label for="arquivo" class="botao-upload">Faça upload da sua imagem aqui...</label>
+                    <input type="file" id="arquivo">
+                </div>
+                
+
+                <button type="submit" class="formulario-botao-azul">Cadastrar-se</button>
+
+                <p>Ao se cadastrar, você concorda com nossos Termos, Política de Dados e Política de Cookies.</p>
+            </form>
+
+            <!-- seção cadastro -->
+            <section id="secao-cadastro" class="estilo-formulario">
+                <p>Tem uma conta? <a asp-controller="Home" asp-action="Index">Conecte-se</a></p>
+            </section>
+
+        </div>
+    </main>
