@@ -2,6 +2,15 @@
     ViewData["Title"] = "DevConnect - login";
 }
     <link rel="stylesheet" href="~/css/login.css">
+
+    <script defer>
+        const usuarioNovoCadastrado = "@TempData[key:"UsuarioCadastrado"]";
+
+        if(usuarioNovoCadastrado == "Cadastrado"){
+            alert("Usuário cadastrado com sucesso!.");
+        }
+    </script>
+
  <h1>Tela principal login - DevConnect</h1>
     <main>
         <div>

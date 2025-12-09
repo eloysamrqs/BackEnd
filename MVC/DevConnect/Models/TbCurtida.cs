@@ -7,7 +7,7 @@ using Microsoft.EntityFrameworkCore;
 namespace DevConnect.Models;
 
 [Table("tb_curtida")]
-public partial class TbCurtidum
+public partial class TbCurtida
 {
     [Key]
     [Column("id")]

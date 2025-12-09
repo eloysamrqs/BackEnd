@@ -6,7 +6,7 @@ namespace DevConnect.Controllers
     public class FeedController : Controller
     {
         private readonly ILogger<FeedController> _logger;
-        private readonly DevConnectContext _context;
+
 
         public FeedController(ILogger<FeedController> logger)
         {

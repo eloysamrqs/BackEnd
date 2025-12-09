@@ -1,36 +1,50 @@
-@{
-    ViewData["Title"] = "DevConnect - Cadastro";
-}
+@using Microsoft.EntityFrameworkCore.Metadata.Internal
+@model DevConnect.Models.TbUsuario
+
     <link rel="stylesheet" href="~/css/usuario.css">
-    <h1>Tela principal cadastro - DevConnect</h1>
+
+    <script defer>
+        const usuarioNovoCadastrado = "@ViewBag.UsuarioCadastrado";
+
+        if(usuarioNovoCadastrado == "Não cadastrado"){
+            alert("Usuário não cadastrado! Tente novamente.");
+        }
+    </script>
+
 
     <main>
         <div>
             <!-- aqui o id foi ajustado para bater com o CSS -->
-            <form id="formulario" class="estilo-formulario" action="">
+            <form id="formulario" class="estilo-formulario" enctype="multipart/form-data"
+            asp-action="Index" asp-controller="Usuario">
+                
                 <img src="../images/DevConnect -  certo.svg" alt="Logo DevConnect">
+                <p>Cadastre-se para comunidade exclusiva 
+                de desenvolvedores(as)</p>
 
- <p>Cadastre-se para comunidade exclusiva de desenvolvedores(as)</p>
-
-  <div>
-                    <input type="text" id="nome" name="nome" placeholder="Digite seu nome completo">
+                <div>
+                <label for="">Nome e sobreome</label>
+                <input type="text" asp-for="NomeCompleto">
                 </div>
                 
                 <div>
-                    <input type="text" id="usuario" name="usuario" placeholder="Digite seu nome de usuário">
+                <label for="">Nome de usuario</label>
+                <input type="text" asp-for="NomeUsuario">
                 </div>
                 
                 <div>
-                    <input type="email" id="email" name="email" placeholder="Digite seu e-mail">
+                <label for="">Email</label>
+                <input type="text" asp-for="Email">
                 </div>
                 
                 <div>
-                    <input type="password" id="senha" name="senha" placeholder="Digite sua senha">
+                    <label for="">Senha:</label>
+                    <input type="password" asp-for="Senha">
                 </div>
                 
                 <div>
                     <label for="arquivo" class="botao-upload">Faça upload da sua imagem aqui...</label>
-                    <input type="file" id="arquivo">
+                    <input type="file" id="arquivo" name="imagem">
                 </div>
                 
 

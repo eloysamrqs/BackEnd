@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HZSeTyeEpJK9R/JOu6vTf+NbFb7Qdd7FthqKaljY0ow=",
+  "Hash": "ACbhLwvoD5++x3FgqKIwAzzlyr4FvAeJZw6rJ24ItAk=",
   "Source": "DevConnect",
   "BasePath": "_content/DevConnect",
   "Mode": "Default",
@@ -2598,6 +2598,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\table.svg"
+    },
+    {
+      "Identity": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\WIN_20251002_12_52_53_Pro.jpg",
+      "SourceId": "DevConnect",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\",
+      "BasePath": "_content/DevConnect",
+      "RelativePath": "images/WIN_20251002_12_52_53_Pro#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ar5ijzfzkj",
+      "Integrity": "WgNz00sMZg/cWoJQokaFpl+aPLRptBr0Oty3TzPl8ig=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\WIN_20251002_12_52_53_Pro.jpg"
     },
     {
       "Identity": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\js\\site.js",
@@ -13065,6 +13086,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-oFakfgYorAL7j3EBbmnyfmGa16PW4u3DvQi3t2JErns="
+        }
+      ]
+    },
+    {
+      "Route": "images/WIN_20251002_12_52_53_Pro.ar5ijzfzkj.jpg",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\WIN_20251002_12_52_53_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WgNz00sMZg/cWoJQokaFpl+aPLRptBr0Oty3TzPl8ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 19:04:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ar5ijzfzkj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/WIN_20251002_12_52_53_Pro.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WgNz00sMZg/cWoJQokaFpl+aPLRptBr0Oty3TzPl8ig="
+        }
+      ]
+    },
+    {
+      "Route": "images/WIN_20251002_12_52_53_Pro.jpg",
+      "AssetFile": "C:\\Users\\7811003309\\Desktop\\BackEnd\\MVC\\DevConnect\\wwwroot\\images\\WIN_20251002_12_52_53_Pro.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "167194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WgNz00sMZg/cWoJQokaFpl+aPLRptBr0Oty3TzPl8ig=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Dec 2025 19:04:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WgNz00sMZg/cWoJQokaFpl+aPLRptBr0Oty3TzPl8ig="
         }
       ]
     },

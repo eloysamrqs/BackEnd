@@ -28,12 +28,12 @@ public partial class TbPublicacao
     public int? IdUsuario { get; set; }
 
     [ForeignKey("IdUsuario")]
-    [InverseProperty("TbPublicacaos")]
+    [InverseProperty("TbPublicacao")]
     public virtual TbUsuario? IdUsuarioNavigation { get; set; }
 
     [InverseProperty("IdPublicacaoNavigation")]
-    public virtual ICollection<TbComentario> TbComentarios { get; set; } = new List<TbComentario>();
+    public virtual ICollection<TbComentario> TbComentario { get; set; } = new List<TbComentario>();
 
     [InverseProperty("IdPublicacaoNavigation")]
-    public virtual ICollection<TbCurtidum> TbCurtida { get; set; } = new List<TbCurtidum>();
+    public virtual ICollection<TbCurtida> TbCurtida { get; set; } = new List<TbCurtida>();
 }

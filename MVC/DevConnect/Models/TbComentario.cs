@@ -27,10 +27,10 @@ public partial class TbComentario
     public int? IdPublicacao { get; set; }
 
     [ForeignKey("IdPublicacao")]
-    [InverseProperty("TbComentarios")]
+    [InverseProperty("TbComentario")]
     public virtual TbPublicacao? IdPublicacaoNavigation { get; set; }
 
     [ForeignKey("IdUsuario")]
-    [InverseProperty("TbComentarios")]
+    [InverseProperty("TbComentario")]
     public virtual TbUsuario? IdUsuarioNavigation { get; set; }
 }
